@@ -99,9 +99,9 @@
     "webpack-bundle-analyzer": "~4.5.0"
   },
   "resolutions": {
-    "@babel/parser": "7.21.3",
-    "@babel/traverse": "7.21.3",
-    "@babel/types": "7.21.3"
+    "@babel/parser": "7.21.8",
+    "@babel/traverse": "7.21.5",
+    "@babel/types": "7.21.5"
   },
   "workspaces": {
     "packages": [
